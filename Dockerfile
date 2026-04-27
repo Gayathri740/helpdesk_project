@@ -1,3 +1,4 @@
+# Docker configuration for help desk app
 FROM python:3.10-slim
 
 WORKDIR /app
