@@ -1,4 +1,5 @@
 # Help Desk Ticket System using Flask
+# SQLite database added for ticket storage
 from flask import Flask, request, render_template_string
 import sqlite3
 
